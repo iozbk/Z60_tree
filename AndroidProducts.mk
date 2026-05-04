@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_PQ83A01-trunk_staging.mk
+    $(LOCAL_DIR)/twrp_PQ83A01-ap2a.mk
 
 COMMON_LUNCH_CHOICES := \
     twrp_PQ83A01-ap2a-user \
