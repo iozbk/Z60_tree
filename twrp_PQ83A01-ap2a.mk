@@ -16,7 +16,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/nubia/PQ83A01/device.mk)
 
 PRODUCT_DEVICE := PQ83A01
-PRODUCT_NAME := twrp_PQ83A01-trunk_staging
+PRODUCT_NAME := twrp_PQ83A01-ap2a
 PRODUCT_BRAND := nubia
 PRODUCT_MODEL := NX721J
 PRODUCT_MANUFACTURER := nubia
