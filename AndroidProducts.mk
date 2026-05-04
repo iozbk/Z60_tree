@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_PQ83A01.mk
+    $(LOCAL_DIR)/twrp_PQ83A01-trunk_staging.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_PQ83A01-user \
-    omni_PQ83A01-userdebug \
-    omni_PQ83A01-eng
+    twrp_PQ83A01-trunk_staging-user \
+    twrp_PQ83A01-trunk_staging-userdebug \
+    twrp_PQ83A01-trunk_staging-eng
