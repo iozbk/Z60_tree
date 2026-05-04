@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo twrp_PQ83A01-ap2a-user
-add_lunch_combo twrp_PQ83A01-ap2a-userdebug
-add_lunch_combo twrp_PQ83A01-ap2a-eng
+#add_lunch_combo twrp_PQ83A01-ap2a-user
+#add_lunch_combo twrp_PQ83A01-ap2a-userdebug
+#add_lunch_combo twrp_PQ83A01-ap2a-eng
