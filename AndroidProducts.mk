@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_PQ83A01-trunk_staging.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_PQ83A01-trunk_staging-user \
-    twrp_PQ83A01-trunk_staging-userdebug \
-    twrp_PQ83A01-trunk_staging-eng
+    twrp_PQ83A01-ap2a-user \
+    twrp_PQ83A01-ap2a-userdebug \
+    twrp_PQ83A01-ap2a-eng
