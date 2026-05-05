@@ -8,7 +8,7 @@
 LOCAL_DIR := $(call my-dir)
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_PQ83A01-ap2a.mk
+    $(LOCAL_DIR)/twrp_PQ83A01.mk
 
 COMMON_LUNCH_CHOICES := \
     twrp_PQ83A01-ap2a-user \
